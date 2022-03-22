@@ -1,0 +1,21 @@
+{
+  "name": "allybot",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "bot.ts",
+  "scripts": {
+    "start": "ts-node src/Bot.ts"
+  },
+  "repository": "https://github.com/rawrlolarawr/rawr-ally-bot.git",
+  "author": "RawrLolaRawr",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.22",
+    "dotenv": "^16.0.0",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
