@@ -1,10 +1,10 @@
 {
   "name": "allybot",
   "version": "1.0.0",
-  "description": "Discord Bot",
-  "main": "bot.ts",
+  "description": "Ally Discord Bot",
+  "main": "src/bot.ts",
   "scripts": {
-    "start": "ts-node src/Bot.ts"
+    "start": "ts-node src/bot.ts"
   },
   "repository": "https://github.com/rawrlolarawr/rawr-ally-bot.git",
   "author": "RawrLolaRawr",

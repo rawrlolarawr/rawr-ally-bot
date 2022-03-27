@@ -1,3 +1,7 @@
+/*
+* RawrLolaRawr
+*/
+
 import { Client, ClientOptions } from 'discord.js';
 import 'dotenv/config'
 

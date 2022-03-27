@@ -1,3 +1,7 @@
+/*
+* RawrLolaRawr
+*/
+
 import { BaseCommandInteraction, Client } from "discord.js";
 import { Command } from "../command";
 
